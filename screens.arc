@@ -12,3 +12,5 @@ XX. dictClean: https://github.com/dushoff/dictClean.git
 XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 XX. stuff: https://github.com/dushoff/stuff.git
+
+XX. bio: https://github.com/dushoff/newMakestuff.git
