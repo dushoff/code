@@ -3,6 +3,9 @@ XX. makestuff: https://github.com/dushoff/makestuff.git
 
 XX. newMakestuff: https://github.com/dushoff/newMakestuff.git
 
+## Delete this I think 2022 Jun 25 (Sat)
+bio: https://github.com/dushoff/newMakestuff.git
+
 XX. useMakestuff: https://github.com/mac-theobio/useMakestuff.git
 
 XX. shellpipes: https://github.com/dushoff/shellpipes.git
@@ -13,4 +16,4 @@ XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 XX. stuff: https://github.com/dushoff/stuff.git
 
-XX. bio: https://github.com/dushoff/newMakestuff.git
+
