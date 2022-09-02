@@ -1,12 +1,12 @@
 
 XX. makestuff: https://github.com/dushoff/makestuff.git
 
+## Probably stupid; I wanted people to be able to fork instead of copy. Or something
 XX. newMakestuff: https://github.com/dushoff/newMakestuff.git
 
-## Delete this I think 2022 Jun 25 (Sat)
-bio: https://github.com/dushoff/newMakestuff.git
-
 XX. useMakestuff: https://github.com/mac-theobio/useMakestuff.git
+
+XX. docker: https://github.com/dushoff/docker.git
 
 XX. shellpipes: https://github.com/dushoff/shellpipes.git
 
