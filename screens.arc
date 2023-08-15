@@ -16,4 +16,6 @@ XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 XX. stuff: https://github.com/dushoff/stuff.git
 
+Bolker makegraph stuff
 
+mmd_utils: https://github.com/bbolker/mmd_utils
