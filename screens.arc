@@ -16,6 +16,8 @@ XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 XX. stuff: https://github.com/dushoff/stuff.git
 
+XX. rosTest: https://github.com/mikeroswell/michaelMakeDemo
+
 Bolker makegraph stuff
 
 mmd_utils: https://github.com/bbolker/mmd_utils
