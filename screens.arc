@@ -21,3 +21,5 @@ XX. rosTest: https://github.com/mikeroswell/michaelMakeDemo
 Bolker makegraph stuff
 
 mmd_utils: https://github.com/bbolker/mmd_utils
+
+makefile2graph: https://github.com/lindenb/makefile2graph.git
